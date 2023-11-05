@@ -1,6 +1,9 @@
 ※ 👋 Hi, I’m @Ravindra Yadav
-※ 📖 Branch - Artificial Intelligence And Data Science Engineering
+<br>
+※ 📖 Branch - Artificial Intelligence And Data Science Engineering.
+<br>
 ※ 👀 I’m interested in Game Development.
+<br>
 ※ 🌱 I’m currently learning Machine Learning and am making a text-based game.
 
 <!---
